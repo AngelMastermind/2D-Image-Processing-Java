@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main7 {
+public class Main {
     public static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -73,4 +73,5 @@ public class Main7 {
                 r[j][i] = m[i][j];
         return r;
     }
+
 }
